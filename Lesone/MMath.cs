@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace Lesone
 {
-    internal class MMath
+    internal class MMath:Math
     {
+        void test()
+        {
+            Min(new int[] { 1, 2, 3, 4, 5, 6 });
+        }
     }
 }

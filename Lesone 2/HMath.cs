@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Lesone
 {
-    internal class HMath
+    internal class HMath:Math
     {
     }
 }
