@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Lesone
+namespace Lesone2
 {
-    internal class HMath:Math
+    internal class HMath: Lesone.MMath
     {
     }
 }

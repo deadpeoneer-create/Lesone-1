@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Lesone
 {
-    internal class Math
+    public class Math
     {
         public double Max(int[] numbers)
         {

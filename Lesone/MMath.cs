@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Lesone
 {
-    internal class MMath:Math
+    public class MMath:Math
     {
         void test()
         {
