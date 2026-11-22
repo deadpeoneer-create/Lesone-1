@@ -58,7 +58,7 @@ namespace Lesone
         
         }
 
-        public double CheckEvenOrOdd(int numbers)
+        public string CheckEvenOrOdd(int numbers)
         {
             if (numbers % 2 == 0)
             {
@@ -79,10 +79,10 @@ namespace Lesone
             {
                 sum += number;
             }
-        
+        return sum / numbers.Length;
         }
 
-        public IsPalindrome(string text)
+        public bool IsPalindrome(string text)
         { 
         string lower = text.ToLower();
             string reversed = "";
