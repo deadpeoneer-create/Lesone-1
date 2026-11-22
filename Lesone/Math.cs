@@ -92,6 +92,7 @@ namespace Lesone
                 reversed += lower[i];
             }
 
+
             return lower == reversed;
         }
     
