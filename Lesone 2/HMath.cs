@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace Lesone2
 {
-    internal class HMath: Lesone.MMath
+    internal class HMath : Lesone.MMath
     {
+        void test ()
+        {
+           
+        }
+            
     }
 }
